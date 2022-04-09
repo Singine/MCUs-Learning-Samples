@@ -1,6 +1,7 @@
 
 ``` 
-Video URL: 'https://www.bilibili.com/video/BV1Mb411e7re'
+51单片机入门教程
+URL: 'https://www.bilibili.com/video/BV1Mb411e7re'
 ```
 
 # 一、硬件设备
